@@ -1,2 +1,3 @@
 #!/bin/bash
-ls -laxo
+ls -l ls -a ls -f
+
