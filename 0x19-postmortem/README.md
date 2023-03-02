@@ -1,4 +1,4 @@
-### Postmortem Report: Outage and Resolution of Customer Service Portal
+# Postmortem Report: Outage and Resolution of Customer Service Portal
 
 ## Issue Summary:
 
@@ -21,11 +21,11 @@ The root cause of the outage was a bug in the codebase of the online shopping pl
 ## Corrective and preventative measures:
 To prevent similar issues from occurring in the future, our company will take the following corrective and preventative measures:
 
-1 * Conduct a thorough review of the codebase for all recent feature additions to ensure they have been thoroughly tested.
-2 * Implement a formal testing and quality assurance process to ensure that all changes to the system are validated before being deployed to the production environment.
-3  * Enhance monitoring and alerting mechanisms to quickly detect and respond to any unexpected service interruptions.
-Develop and implement a disaster recovery plan to minimize the impact of any future outages on the platform and its users.
-Schedule a review of our infrastructure's hardware and software components to ensure they are up to date and meet the demands of our growing user base.
-Schedule a post-mortem meeting to discuss the lessons learned from this outage and identify opportunities for improvement in our processes and systems.
+* Conduct a thorough review of the codebase for all recent feature additions to ensure they have been thoroughly tested.
+* Implement a formal testing and quality assurance process to ensure that all changes to the system are validated before being deployed to the production environment.
+* Enhance monitoring and alerting mechanisms to quickly detect and respond to any unexpected service interruptions.
+* Develop and implement a disaster recovery plan to minimize the impact of any future outages on the platform and its users.
+* Schedule a review of our infrastructure's hardware and software components to ensure they are up to date and meet the demands of our growing user base.
+* Schedule a post-mortem meeting to discuss the lessons learned from this outage and identify opportunities for improvement in our processes and systems.
 
 In conclusion, while the outage was unfortunate and had a significant impact on our platform's users and revenue, it provided us with a valuable opportunity to learn and improve. By identifying and addressing the root cause of the issue, implementing corrective and preventative measures, and conducting a review of our processes, we are confident that we can minimize the likelihood of similar incidents in the future and ensure the highest level of service to our customers.
