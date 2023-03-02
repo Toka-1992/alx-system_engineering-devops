@@ -18,6 +18,9 @@ On March 1st, 2023, between 2:00 PM and 5:00 PM EST, our company's online shoppi
 
 The root cause of the outage was a bug in the codebase of the online shopping platform, leading to unexpected server crashes and service interruption. The bug was related to a new feature that had recently been implemented but not thoroughly tested, leading to an unexpected impact on the system's stability. To resolve the issue, the engineering team worked with the product team to develop and implement a patch that addressed the underlying bug, which was tested extensively before being deployed to the production environment. Additionally, the team implemented enhanced monitoring and testing procedures to catch similar issues in the future.
 
+![giphy (2)](https://user-images.githubusercontent.com/72882307/222430806-9a17ef94-36f8-409f-a13f-9940b715c2b9.gif)
+
+
 ## Corrective and preventative measures:
 To prevent similar issues from occurring in the future, our company will take the following corrective and preventative measures:
 
